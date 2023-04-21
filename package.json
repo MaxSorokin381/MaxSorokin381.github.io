@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "jquery": "^3.6.4"
+  },
+  "name": "praktika",
+  "version": "1.0.0",
+  "description": "dsasad",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxSorokin381/MaxSorokin381.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxSorokin381/MaxSorokin381.github.io/issues"
+  },
+  "homepage": "https://github.com/MaxSorokin381/MaxSorokin381.github.io#readme"
+}
