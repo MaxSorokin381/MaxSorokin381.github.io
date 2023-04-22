@@ -8,6 +8,7 @@
   "description": "dsasad",
   "main": "index.js",
   "scripts": {
+    
     "start": "http-server"
   },
   "repository": {
