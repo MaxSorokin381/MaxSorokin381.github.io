@@ -1,0 +1,24 @@
+{
+    "name": "Vegetables SHOP",
+    "short_name": "Shop",
+    "description": "A simple shop.",
+    "icons": [
+      {
+        "src": "/Praktika/images/icons/tomatoeswork-progressive-web-app.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      
+      {
+        "src": "/Praktika/images/icons/tomat",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#B12A34",
+    "background_color": "#B12A34",
+    "lang": "en-US"
+  }
