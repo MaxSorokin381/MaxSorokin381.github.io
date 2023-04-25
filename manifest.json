@@ -34,7 +34,7 @@
         "type": "image/png"
       },
       {
-        "src": "../images/icons/tomat.png",
+        "src": "/Praktika/images/icons/tomat.png",
         "sizes": "512x512",
         "type": "image/png"
       }

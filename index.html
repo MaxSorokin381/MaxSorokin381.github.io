@@ -8,6 +8,16 @@
     <link href="./css/main.css" rel="stylesheet" />
     <meta name="viewport" content="width=device-width">
     <link rel="manifest" href="C:/Users/tviydevice/Desktop/Praktika/manifest.json"/>
+    <link rel="shortcut icon" href="/images/icons/favicon.ico">
+    <script>
+        if ('serviceWorker' in navigator) {
+           navigator.serviceWorker
+           .register('/sw.js')
+           .then(function() {
+               console.log('Service worker registered!');
+           });
+       }
+    </script>
     <title>Homepage</title>
 </head>
 
